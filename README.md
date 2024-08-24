@@ -3,7 +3,7 @@
 - 🔭 I’m currently working with LLMs, Generative AI at Pegasystems.
 - 🌱 I’m interested in anything that solves problem and is challenging.
 - 📫 Email me: komalibeeram.work@gmail.com
-- 🌐 Find me: komalibeeram.github.io
+- 🌐 Find me: [https://komalibeeram.github.io](https://komalibeeram.github.io/)
 <!--
 **komalibeeram/komalibeeram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
