@@ -1,6 +1,6 @@
 
 - 👋 Hi! I'm Komali.
-- 🔭 I’m currently working with LLMs, Generative AI at Pegasystems.
+- 🔭 I’m currently working at Pegasystems making products for Customer Service in Communications Industries.
 - 🌱 I’m interested in anything that solves problem and is challenging.
 - 📫 Email me: komalibeeram.work@gmail.com
 - 🌐 Find me: [https://komalibeeram.github.io](https://komalibeeram.github.io/)
