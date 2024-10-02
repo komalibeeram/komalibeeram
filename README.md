@@ -1,5 +1,5 @@
 
-- 👋 Hi! I'm Komali.
+- 👋 Hi! I'm Komal.
 - 🔭 I’m currently working at Pegasystems making products for Customer Service in Communications Industries.
 - 🌱 I’m interested in anything that solves problem and is challenging.
 - 📫 Email me: komalibeeram.work@gmail.com
